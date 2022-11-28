@@ -3,3 +3,8 @@
   padding: 0 48px;
   margin: auto;
 }
+@media screen and (max-width: 1024px){
+  .cover{
+    padding: 0;
+  }
+}

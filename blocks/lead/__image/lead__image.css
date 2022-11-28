@@ -1,5 +1,11 @@
 .lead__image{
   padding: 64px 0 0;
-  max-width: 984px;
-  height: 615px;
+  max-width: 1280px;
+  max-height: 615px;
+  object-fit: cover;
+}
+@media screen and (max-width: 1024px){
+  .lead__caption{
+    padding: 56px 0 0;
+  }
 }

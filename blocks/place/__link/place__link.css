@@ -8,3 +8,8 @@
   color: #fff;
   text-decoration-line: underline;
 }
+@media screen and (max-width: 425px){
+  .place__link{
+    padding: 0 16px;
+  }
+}

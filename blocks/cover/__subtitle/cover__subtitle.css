@@ -6,7 +6,13 @@
   letter-spacing: 0em;
   text-align: center;
   color: #fff;
-  margin: auto;
+  /* margin: auto; */
   /* z-index: 1; */
-  padding: 0 0 245px;
+  /* padding: 0 0 245px; */
+}
+@media screen and (max-width: 425px) {
+  .cover__subtitle{
+    font-size: 14px;
+    line-height: 16px;
+  }
 }
