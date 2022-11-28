@@ -1,7 +1,5 @@
-.cover{
+.cover {
   max-width: 1280px;
-  box-sizing: border-box;
+  padding: 0 48px;
   margin: auto;
-  padding: 92px 48px;
-  background: url(../../image/cover-trains.jpg) no-repeat center center;
 }
