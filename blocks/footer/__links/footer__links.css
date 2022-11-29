@@ -10,7 +10,7 @@
 .footer__links li:last-child {
   margin-right: 0px;
 }
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 768px) {
   .footer__links{
     flex-direction: column;
   }

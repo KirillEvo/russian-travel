@@ -7,7 +7,7 @@
   align-items: center;
   flex-direction: column;
   position: relative;
-  min-height: 720px;
+  min-height: 740px;
 }
 .cover__link:hover::before{
   opacity: 0.8;

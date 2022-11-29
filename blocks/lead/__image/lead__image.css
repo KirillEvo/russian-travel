@@ -5,7 +5,12 @@
   object-fit: cover;
 }
 @media screen and (max-width: 1024px){
-  .lead__caption{
+  .lead__image{
     padding: 56px 0 0;
+  }
+}
+@media screen and (max-width: 768px){
+  .lead__image{
+    padding: 40px 0 0;
   }
 }

@@ -6,3 +6,9 @@
   color: #fff;
   text-decoration: none;
 }
+@media screen and (max-width: 550px) {
+  .header__link{
+    font-size: 18px;
+    line-height: 20px;
+  }
+}
