@@ -1,16 +1,16 @@
 .intro__list{
-  padding: 33px 0 0;
+  font-family: 'Inter', Arial, sans-serif;
+  margin: 33px 0 0;
   font-style: normal;
-  font-weight: 600;
+  font-weight: 700;
   font-size: 12px;
   line-height: 18px;
   color: #fff;
-/* or 150% */
   list-style: none;
   padding-inline-start: 0;
 }
 @media screen and (max-width: 425px){
   .intro__list{
-    padding: 34px 0 0;
+    margin: 34px 0 0;
   }
 }

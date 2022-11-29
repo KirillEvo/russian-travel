@@ -4,13 +4,7 @@
   padding: 0;
   display: flex;
 }
-.footer__links li{
-  margin-right: 18px;
-}
-.footer__links li:last-child {
-  margin-right: 0px;
-}
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .footer__links{
     flex-direction: column;
   }
