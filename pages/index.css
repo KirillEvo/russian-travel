@@ -10,7 +10,6 @@
 @import url('../blocks/header/__logo/header__logo.css');
 @import url('../blocks/header/__links/header__links.css');
 @import url('../blocks/header/__link/header__link.css');
-@import url('../blocks/header/__link/_last/header__link_last.css');
 @import url('../blocks/header/__link/_active/header__link_active.css');
 /*Section Lead*/
 @import url('../blocks/lead/lead.css');
@@ -46,5 +45,4 @@
 @import url('../blocks/footer/__author/footer__author.css');
 @import url('../blocks/footer/__links/footer__links.css');
 @import url('../blocks/footer/__link/footer__link.css');
-@import url('../blocks/footer/__link/_last/footer__link_last.css');
 @import url('../blocks/footer/__item/footer__item.css');
